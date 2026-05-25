@@ -74,7 +74,7 @@ Sites confirmed to work with this tool:
 |------|-----|-------|
 | Pornhub | https://www.pornhub.com | |
 | XVideos | https://www.xvideos.com | |
-| xHamster | https://xhamster.com | Select h264 format, avoid hls |
+| xHamster | https://xhamster.com | Select h264 format, avoid hls (kinda buggy maybe didn't work) |
 
 ---
 
