@@ -74,6 +74,7 @@ Sites confirmed to work with this tool:
 |------|-----|-------|
 | Pornhub | https://www.pornhub.com | |
 | XVideos | https://www.xvideos.com | |
+| YouPorn | https://www.youporn.com/watch/190996131/ | video work, but upload date can't be extracted. |
 | xHamster | https://xhamster.com | Select h264 format, avoid hls (kinda buggy maybe didn't work) |
 
 ---
