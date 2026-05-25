@@ -42,6 +42,8 @@ Steps:
 3. Enter the resolution code you want.
 4. The video will be downloaded to `~/Downloads/Eporner/`.
 
+> **Important:** Download one video at a time. Running multiple downloads simultaneously may trigger HTTP 500 errors from the server.
+
 ---
 
 ## Output
@@ -72,10 +74,10 @@ Sites confirmed to work with this tool:
 
 | Site | URL | Notes |
 |------|-----|-------|
-| Pornhub | https://www.pornhub.com | |
-| XVideos | https://www.xvideos.com | |
-| YouPorn | https://www.youporn.com/watch/190996131/ | video work, but upload date can't be extracted. |
-| xHamster | https://xhamster.com | Select h264 format, avoid hls (kinda buggy maybe didn't work) |
+| Pornhub | https://www.pornhub.com | still no bug while i tested this. |
+| XVideos | https://www.xvideos.com | still no bug while i tested this. |
+| YouPorn | https://www.youporn.com | Video works, but upload date cannot be extracted. |
+| xHamster | https://xhamster.com | Select h264 format, avoid hls (kinda buggy, may not always work) |
 
 ---
 
@@ -85,7 +87,3 @@ Sites confirmed to work with this tool:
 - The virtual environment is only created once. Subsequent runs will reuse it.
 
 ---
-
-## Author
-
-ramdanolii14 — https://github.com/ramdanolii14
