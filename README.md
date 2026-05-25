@@ -66,6 +66,18 @@ Installed automatically inside a local virtual environment (`yt-env`). No global
 
 ---
 
+## Supported Sites
+
+Sites confirmed to work with this tool:
+
+| Site | URL | Notes |
+|------|-----|-------|
+| Pornhub | https://www.pornhub.com | |
+| XVideos | https://www.xvideos.com | |
+| xHamster | https://xhamster.com | Select h264 format, avoid hls |
+
+---
+
 ## Notes
 
 - `--legacy-server-connect` and `--no-check-certificate` are used to handle servers with older or self-signed SSL configurations.
