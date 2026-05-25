@@ -42,7 +42,7 @@ Steps:
 3. Enter the resolution code you want.
 4. The video will be downloaded to `~/Downloads/Eporner/`.
 
-> **Important:** Download one video at a time. Running multiple downloads simultaneously may trigger HTTP 500 errors from the server.
+> **Important:** Download one video at a time. Running multiple downloads simultaneously may trigger HTTP 500 errors from the server. Also, if you get the error **Unable to download webpage: [Errno 104] Connection reset by peer (caused by TransportError('[Errno 104] Connection reset by peer')** try reconnect your vpn or use another location.
 
 ---
 
